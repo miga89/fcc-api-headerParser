@@ -1,0 +1,14 @@
+{
+  "name": "api-header-parser",
+  "version": "1.0.0",
+  "description": "A Header Parser Microservice (FCC)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Garstka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
